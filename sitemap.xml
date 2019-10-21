@@ -8,11 +8,23 @@
   </url>
   
   <url>
-    <loc>https://kararudolph.github.io/authors/</loc>
+    <loc>https://kararudolph.github.io/publication_types/2/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kararudolph.github.io/categories/</loc>
+    <loc>https://kararudolph.github.io/publication/journal-article-example/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kararudolph.github.io/publication/journal-article-template/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kararudolph.github.io/authors/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -21,12 +33,32 @@
   </url>
   
   <url>
-    <loc>https://kararudolph.github.io/post/</loc>
-    <lastmod>2019-05-06T17:54:11+01:00</lastmod>
+    <loc>https://kararudolph.github.io/publication_types/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kararudolph.github.io/publication_types/</loc>
+    <loc>https://kararudolph.github.io/authors/robert-ford/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kararudolph.github.io/tags/source-themes/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kararudolph.github.io/tags/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kararudolph.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kararudolph.github.io/post/</loc>
+    <lastmod>2019-05-06T17:54:11+01:00</lastmod>
   </url>
   
   <url>
@@ -37,10 +69,6 @@
   <url>
     <loc>https://kararudolph.github.io/talk/</loc>
     <lastmod>2019-05-06T17:54:11+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kararudolph.github.io/tags/</loc>
   </url>
   
 </urlset>

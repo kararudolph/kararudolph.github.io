@@ -5,7 +5,7 @@
     <link>https://kararudolph.github.io/authors/</link>
       <atom:link href="https://kararudolph.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://kararudolph.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>https://kararudolph.github.io/authors/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       <guid>https://kararudolph.github.io/authors/admin/</guid>
       <description>&lt;p&gt;Kara Rudolph is an Assistant Professor in Mailman School of Public Health at
 Columbia University in New York.&lt;/p&gt;
@@ -28,6 +28,14 @@ and adolescent drug use.&lt;/p&gt;
 &lt;p&gt;She graduated with a PhD (Epidemiology) and MHS (Biostatistics) from the Johns
 Hopkins Bloomberg School of Public Health in 2014.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Robert Ford</title>
+      <link>https://kararudolph.github.io/authors/robert-ford/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://kararudolph.github.io/authors/robert-ford/</guid>
+      <description></description>
     </item>
     
   </channel>
