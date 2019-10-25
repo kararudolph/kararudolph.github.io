@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zheng W | Kara Rudolph</title>
+    <link>https://kararudolph.github.io/authors/zheng-w/</link>
+      <atom:link href="https://kararudolph.github.io/authors/zheng-w/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zheng W</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 27 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kararudolph.github.io/img/icon-192.png</url>
+      <title>Zheng W</title>
+      <link>https://kararudolph.github.io/authors/zheng-w/</link>
+    </image>
+    
+    <item>
+      <title>Robust and flexible estimation of data-dependent stochastic mediation effects: a proposed method and example in a randomized trial setting</title>
+      <link>https://kararudolph.github.io/publication/robust-and-flexible/</link>
+      <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://kararudolph.github.io/publication/robust-and-flexible/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

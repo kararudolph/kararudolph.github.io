@@ -5,7 +5,7 @@
     <link>https://kararudolph.github.io/authors/</link>
       <atom:link href="https://kararudolph.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 08 Mar 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://kararudolph.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>https://kararudolph.github.io/authors/admin/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       <guid>https://kararudolph.github.io/authors/admin/</guid>
       <description>&lt;p&gt;Kara Rudolph is an epidemiologist with research interests in developing and
 applying causal inference methods to understand social and contextual
@@ -38,10 +38,122 @@ Foundation Health and Society Scholar.&lt;/p&gt;
     </item>
     
     <item>
-      <title>Robert Ford</title>
-      <link>https://kararudolph.github.io/authors/robert-ford/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://kararudolph.github.io/authors/robert-ford/</guid>
+      <title>Levy J</title>
+      <link>https://kararudolph.github.io/authors/levy-j/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://kararudolph.github.io/authors/levy-j/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>van der Laan MJ</title>
+      <link>https://kararudolph.github.io/authors/van-der-laan-mj/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://kararudolph.github.io/authors/van-der-laan-mj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ahern J</title>
+      <link>https://kararudolph.github.io/authors/ahern-j/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://kararudolph.github.io/authors/ahern-j/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crowder R</title>
+      <link>https://kararudolph.github.io/authors/crowder-r/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://kararudolph.github.io/authors/crowder-r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Glymour MM</title>
+      <link>https://kararudolph.github.io/authors/glymour-mm/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://kararudolph.github.io/authors/glymour-mm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Merikangas KR</title>
+      <link>https://kararudolph.github.io/authors/merikangas-kr/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://kararudolph.github.io/authors/merikangas-kr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Osypuk, TL</title>
+      <link>https://kararudolph.github.io/authors/osypuk-tl/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://kararudolph.github.io/authors/osypuk-tl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paksarian D</title>
+      <link>https://kararudolph.github.io/authors/paksarian-d/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://kararudolph.github.io/authors/paksarian-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Schmidt NM</title>
+      <link>https://kararudolph.github.io/authors/schmidt-nm/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://kararudolph.github.io/authors/schmidt-nm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sofrygin O</title>
+      <link>https://kararudolph.github.io/authors/sofrygin-o/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://kararudolph.github.io/authors/sofrygin-o/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stuart EA</title>
+      <link>https://kararudolph.github.io/authors/stuart-ea/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://kararudolph.github.io/authors/stuart-ea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vernick JS</title>
+      <link>https://kararudolph.github.io/authors/vernick-js/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://kararudolph.github.io/authors/vernick-js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Webster DW</title>
+      <link>https://kararudolph.github.io/authors/webster-dw/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://kararudolph.github.io/authors/webster-dw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zheng W</title>
+      <link>https://kararudolph.github.io/authors/zheng-w/</link>
+      <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://kararudolph.github.io/authors/zheng-w/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Galin J</title>
+      <link>https://kararudolph.github.io/authors/galin-j/</link>
+      <pubDate>Mon, 31 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://kararudolph.github.io/authors/galin-j/</guid>
       <description></description>
     </item>
     

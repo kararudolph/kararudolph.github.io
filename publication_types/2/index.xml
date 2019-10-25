@@ -5,7 +5,7 @@
     <link>https://kararudolph.github.io/publication_types/2/</link>
       <atom:link href="https://kararudolph.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://kararudolph.github.io/img/icon-192.png</url>
       <title>2</title>
@@ -13,24 +13,51 @@
     </image>
     
     <item>
-      <title>An example journal article</title>
-      <link>https://kararudolph.github.io/publication/journal-article-example/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://kararudolph.github.io/publication/journal-article-example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Causal mediation analysis with observational data: considerations and illustration examining mechanisms linking neighborhood poverty to adolescent substance use.</title>
+      <link>https://kararudolph.github.io/publication/casual-mediation/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://kararudolph.github.io/publication/casual-mediation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mediation of Neighborhood Effects on Adolescent Substance Use by the School and Peer Environments</title>
+      <link>https://kararudolph.github.io/publication/mediation-of-neighborhood/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://kararudolph.github.io/publication/mediation-of-neighborhood/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Association between Connecticut’s permit-to-purchase handgun law and homicides</title>
+      <link>https://kararudolph.github.io/publication/assocation-between/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://kararudolph.github.io/publication/assocation-between/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust and flexible estimation of data-dependent stochastic mediation effects: a proposed method and example in a randomized trial setting</title>
+      <link>https://kararudolph.github.io/publication/robust-and-flexible/</link>
+      <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://kararudolph.github.io/publication/robust-and-flexible/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Composition or context: using transportability to understand drivers of site differences in a large-scale housing experiment</title>
+      <link>https://kararudolph.github.io/publication/composition-or-context/</link>
+      <pubDate>Mon, 31 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://kararudolph.github.io/publication/composition-or-context/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust estimation of encouragement-design intervention effects transported across sites</title>
+      <link>https://kararudolph.github.io/publication/robust-estimation/</link>
+      <pubDate>Mon, 31 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://kararudolph.github.io/publication/robust-estimation/</guid>
+      <description></description>
     </item>
     
   </channel>

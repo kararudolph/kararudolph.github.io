@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Levy J | Kara Rudolph</title>
+    <link>https://kararudolph.github.io/authors/levy-j/</link>
+      <atom:link href="https://kararudolph.github.io/authors/levy-j/index.xml" rel="self" type="application/rss+xml" />
+    <description>Levy J</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 08 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kararudolph.github.io/img/icon-192.png</url>
+      <title>Levy J</title>
+      <link>https://kararudolph.github.io/authors/levy-j/</link>
+    </image>
+    
+    <item>
+      <title>Transporting stochastic direct and indirect effects to new populations.</title>
+      <link>https://kararudolph.github.io/publication/transporting-stochastic/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://kararudolph.github.io/publication/transporting-stochastic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

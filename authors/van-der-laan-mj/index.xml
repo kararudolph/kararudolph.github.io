@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>van der Laan MJ | Kara Rudolph</title>
+    <link>https://kararudolph.github.io/authors/van-der-laan-mj/</link>
+      <atom:link href="https://kararudolph.github.io/authors/van-der-laan-mj/index.xml" rel="self" type="application/rss+xml" />
+    <description>van der Laan MJ</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 08 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kararudolph.github.io/img/icon-192.png</url>
+      <title>van der Laan MJ</title>
+      <link>https://kararudolph.github.io/authors/van-der-laan-mj/</link>
+    </image>
+    
+    <item>
+      <title>Transporting stochastic direct and indirect effects to new populations.</title>
+      <link>https://kararudolph.github.io/publication/transporting-stochastic/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://kararudolph.github.io/publication/transporting-stochastic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Complier stochastic direct effects: identification and robust estimation.</title>
+      <link>https://kararudolph.github.io/publication/complier-stochastic/</link>
+      <pubDate>Mon, 29 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://kararudolph.github.io/publication/complier-stochastic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust and flexible estimation of data-dependent stochastic mediation effects: a proposed method and example in a randomized trial setting</title>
+      <link>https://kararudolph.github.io/publication/robust-and-flexible/</link>
+      <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://kararudolph.github.io/publication/robust-and-flexible/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust estimation of encouragement-design intervention effects transported across sites</title>
+      <link>https://kararudolph.github.io/publication/robust-estimation/</link>
+      <pubDate>Mon, 31 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://kararudolph.github.io/publication/robust-estimation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stuart EA | Kara Rudolph</title>
+    <link>https://kararudolph.github.io/authors/stuart-ea/</link>
+      <atom:link href="https://kararudolph.github.io/authors/stuart-ea/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stuart EA</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kararudolph.github.io/img/icon-192.png</url>
+      <title>Stuart EA</title>
+      <link>https://kararudolph.github.io/authors/stuart-ea/</link>
+    </image>
+    
+    <item>
+      <title>Causal mediation analysis with observational data: considerations and illustration examining mechanisms linking neighborhood poverty to adolescent substance use.</title>
+      <link>https://kararudolph.github.io/publication/casual-mediation/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://kararudolph.github.io/publication/casual-mediation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Association between Connecticut’s permit-to-purchase handgun law and homicides</title>
+      <link>https://kararudolph.github.io/publication/assocation-between/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://kararudolph.github.io/publication/assocation-between/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
