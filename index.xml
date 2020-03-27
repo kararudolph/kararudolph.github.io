@@ -5,12 +5,20 @@
     <link>https://kararudolph.github.io/</link>
       <atom:link href="https://kararudolph.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Kara Rudolph</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 08 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://kararudolph.github.io/img/icon-192.png</url>
       <title>Kara Rudolph</title>
       <link>https://kararudolph.github.io/</link>
     </image>
+    
+    <item>
+      <title>Complier stochastic direct effects: identification and robust estimation.</title>
+      <link>https://kararudolph.github.io/publication/complier-stochastic/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://kararudolph.github.io/publication/complier-stochastic/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Transporting stochastic direct and indirect effects to new populations.</title>
@@ -25,14 +33,6 @@
       <link>https://kararudolph.github.io/publication/casual-mediation/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://kararudolph.github.io/publication/casual-mediation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Complier stochastic direct effects: identification and robust estimation.</title>
-      <link>https://kararudolph.github.io/publication/complier-stochastic/</link>
-      <pubDate>Mon, 29 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://kararudolph.github.io/publication/complier-stochastic/</guid>
       <description></description>
     </item>
     
