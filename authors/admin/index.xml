@@ -5,76 +5,12 @@
     <link>https://kararudolph.github.io/authors/admin/</link>
       <atom:link href="https://kararudolph.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Kara Rudolph</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>https://kararudolph.github.io/img/icon-192.png</url>
       <title>Kara Rudolph</title>
       <link>https://kararudolph.github.io/authors/admin/</link>
     </image>
-    
-    <item>
-      <title>Complier stochastic direct effects: identification and robust estimation.</title>
-      <link>https://kararudolph.github.io/publication/complier-stochastic/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://kararudolph.github.io/publication/complier-stochastic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Transporting stochastic direct and indirect effects to new populations.</title>
-      <link>https://kararudolph.github.io/publication/transporting-stochastic/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://kararudolph.github.io/publication/transporting-stochastic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Causal mediation analysis with observational data: considerations and illustration examining mechanisms linking neighborhood poverty to adolescent substance use.</title>
-      <link>https://kararudolph.github.io/publication/casual-mediation/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://kararudolph.github.io/publication/casual-mediation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mediation of Neighborhood Effects on Adolescent Substance Use by the School and Peer Environments</title>
-      <link>https://kararudolph.github.io/publication/mediation-of-neighborhood/</link>
-      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://kararudolph.github.io/publication/mediation-of-neighborhood/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Composition or context: using transportability to understand drivers of site differences in a large-scale housing experiment</title>
-      <link>https://kararudolph.github.io/publication/composition-or-context/</link>
-      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://kararudolph.github.io/publication/composition-or-context/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Robust and flexible estimation of data-dependent stochastic mediation effects: a proposed method and example in a randomized trial setting</title>
-      <link>https://kararudolph.github.io/publication/robust-and-flexible/</link>
-      <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://kararudolph.github.io/publication/robust-and-flexible/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Robust estimation of encouragement-design intervention effects transported across sites</title>
-      <link>https://kararudolph.github.io/publication/robust-estimation/</link>
-      <pubDate>Mon, 31 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>https://kararudolph.github.io/publication/robust-estimation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Association between Connecticut’s permit-to-purchase handgun law and homicides</title>
-      <link>https://kararudolph.github.io/publication/assocation-between/</link>
-      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
-      <guid>https://kararudolph.github.io/publication/assocation-between/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
